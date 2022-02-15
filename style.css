@@ -1,6 +1,9 @@
 .container{
 background-color:aqua;
 color:gold;
+display:flex;
+align-content:center;
+flex-wrap:wrap;
 }
 .item{
     border: 4px solid;
