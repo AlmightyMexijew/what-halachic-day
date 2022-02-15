@@ -2,3 +2,8 @@
 background-color:aqua;
 color:gold;
 }
+.item{
+    border: 4px solid;
+    width: 60px;
+    height: 60px;
+    }
